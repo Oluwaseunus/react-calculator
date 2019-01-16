@@ -1,0 +1,19 @@
+.clear-btn {
+	height: 4rem;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	border-radius: 100rem;
+	font-size: 1.4em;
+	text-decoration: none;
+	background-color: #282c34;
+	color: #c5c3cd;
+	flex: 1;
+	/* border: 1px solid #c5c3cd; */
+	margin-top: 1rem;
+	transition: all 0.2s;
+}
+
+.clear-btn:hover {
+	transform: scale(1.1);
+}
