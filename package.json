@@ -2,6 +2,7 @@
 	"name": "react-calculator",
 	"version": "0.1.0",
 	"private": true,
+	"homepage": "https://Oluwaseunus.github.io/react-calculator",
 	"dependencies": {
 		"react": "^16.6.3",
 		"react-dom": "^16.6.3",
@@ -26,6 +27,5 @@
 	],
 	"devDependencies": {
 		"gh-pages": "^2.0.1"
-	},
-	"homepage": "https://github.com/Oluwaseunus/react-calculator.git"
+	}
 }
